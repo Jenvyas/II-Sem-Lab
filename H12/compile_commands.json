@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   -g -std=gnu++2a -o CMakeFiles\\Date.dir\\Date\\Date.cpp.obj -c \"C:\\Users\\jenvy\\OneDrive\\Desktop\\ProgIz lab. d\\H12\\Date\\Date.cpp\"",
+  "file": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/Date/Date.cpp",
+  "output": "CMakeFiles/Date.dir/Date/Date.cpp.obj"
+},
+{
+  "directory": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   -g -std=gnu++2a -o CMakeFiles\\Date.dir\\Date\\DateFile.cpp.obj -c \"C:\\Users\\jenvy\\OneDrive\\Desktop\\ProgIz lab. d\\H12\\Date\\DateFile.cpp\"",
+  "file": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/Date/DateFile.cpp",
+  "output": "CMakeFiles/Date.dir/Date/DateFile.cpp.obj"
+},
+{
+  "directory": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   -g -std=gnu++2a -o CMakeFiles\\Date.dir\\Date\\BufferDate.cpp.obj -c \"C:\\Users\\jenvy\\OneDrive\\Desktop\\ProgIz lab. d\\H12\\Date\\BufferDate.cpp\"",
+  "file": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/Date/BufferDate.cpp",
+  "output": "CMakeFiles/Date.dir/Date/BufferDate.cpp.obj"
+},
+{
+  "directory": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   -g -std=gnu++2a -o CMakeFiles\\H12.dir\\main.cpp.obj -c \"C:\\Users\\jenvy\\OneDrive\\Desktop\\ProgIz lab. d\\H12\\main.cpp\"",
+  "file": "C:/Users/jenvy/OneDrive/Desktop/ProgIz lab. d/H12/main.cpp",
+  "output": "CMakeFiles/H12.dir/main.cpp.obj"
+}
+]
